@@ -40,7 +40,7 @@ My first model rocket launch. Goal was simple: get a rocket in the air and recov
 | 2 | B6-4 | Success | ~700 ft | Straight flight |
 | 3 | C6-5 | Success | ~1100 ft | ~50% higher, good wiggle |
 
-img.youtube.com/vi/HPlCPXLYmeM/maxresdefault.jpg
+[![Launch video](https://img.youtube.com/vi/HPlCPXLYmeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=HPlCPXLYmeM)
 ---
 
 ## Results
